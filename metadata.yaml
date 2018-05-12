@@ -1,0 +1,32 @@
+_repo: The-Other-Side-of-the-Door_25724
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pfeifer, Herman
+    birthdate: 1874
+    deathdate: 1931
+    gutenberg_agent_id: '31534'
+    url: http://www.gutenberg.org/2009/agents/31534
+covers:
+- cover_type: archival
+  image_path: 25724-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Chamberlain, Lucia
+    gutenberg_agent_id: '9302'
+    url: http://www.gutenberg.org/2009/agents/9302
+description: ''
+gutenberg_issued: '2008-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25724'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'San Francisco (Calif.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Murder -- Fiction'
+title: The Other Side of the Door
+url: http://www.gutenberg.org/ebooks/25724
