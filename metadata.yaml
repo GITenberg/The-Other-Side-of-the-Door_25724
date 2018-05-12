@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '9302'
     url: http://www.gutenberg.org/2009/agents/9302
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25724#The-Other-Side-of-the-Door
 gutenberg_issued: '2008-06-08'
 gutenberg_type: Text
 identifiers:
